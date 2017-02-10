@@ -1,0 +1,10 @@
+4.6 Reading Exercise (Friday 9 Feb 2017)
+
+Explicit Formula
+T(n) = n/2
+
+T(n) takes linear time with respect to its input
+
+The big-O bound does not change if
+you subtract any constant k
+(assuming n ≥ k and k divides n evenly)
