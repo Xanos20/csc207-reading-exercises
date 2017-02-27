@@ -1,0 +1,10 @@
+26 Feb 2017
+
+A)
+i.foo() will typecheck and its output
+will be "C.foo"
+
+B)
+i.bar() will not typecheck and it will give an error
+
+i.bar() is safe but rejected 
